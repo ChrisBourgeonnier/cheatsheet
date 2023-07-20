@@ -1,0 +1,40 @@
+body {
+  font-family: Arial;
+  background-color: beige;
+  text-align: center;
+}
+
+table {
+  margin: 20px auto;
+  width: 80%;
+}
+
+table,
+tr,
+td {
+  line-height: 120%;
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 3px;
+}
+
+caption {
+  line-height: 1.5;
+  font-size: 120%;
+  font-weight: 600;
+  letter-spacing: 120%;
+  padding: 20px;
+}
+
+th {
+  background-color: #5C4033;
+  color: beige;
+}
+
+.property {
+  width: 25%;
+}
+
+.value {
+  width: 25%;
+}
